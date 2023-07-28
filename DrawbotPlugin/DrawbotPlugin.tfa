@@ -1,0 +1,4 @@
+﻿[40E6CCF9-F664-46E9-938A-1EDB9D74A104]
+dll=DrawbotPlugin.dll
+name=Drawbot Plugin
+autostart=1
